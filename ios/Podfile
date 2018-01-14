@@ -1,0 +1,6 @@
+platform :ios,'8.0'
+target 'WPEducation' do
+pod 'MJExtension'
+pod 'MJRefresh'
+pod 'MBProgressHUD'
+end
